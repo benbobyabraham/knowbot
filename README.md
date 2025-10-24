@@ -1,6 +1,6 @@
 # Knowbot - Policy Q&A Copilot 🧭
 
-[![Python Application](https://github.com/YOUR_USERNAME/knowbot/actions/workflows/python-app.yml/badge.svg)](https://github.com/YOUR_USERNAME/knowbot/actions/workflows/python-app.yml)
+[![Python Application](https://github.com/benbobyabraham/knowbot/actions/workflows/python-app.yml/badge.svg)](https://github.com/benbobyabraham/knowbot/actions/workflows/python-app.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
