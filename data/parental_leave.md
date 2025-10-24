@@ -1,0 +1,1 @@
+Parental leave: 12 weeks fully paid.
