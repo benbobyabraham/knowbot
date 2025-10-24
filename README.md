@@ -1,6 +1,14 @@
 # Knowbot - Policy Q&A Copilot 🧭
 
+[![Python Application](https://github.com/YOUR_USERNAME/knowbot/actions/workflows/python-app.yml/badge.svg)](https://github.com/YOUR_USERNAME/knowbot/actions/workflows/python-app.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+
 An intelligent RAG (Retrieval-Augmented Generation) chatbot that helps users quickly find answers to policy-related questions using natural language. Built with LlamaIndex, Weaviate vector database, and OpenAI's GPT-4o-mini.
+
+## 🚀 Quick Start
+
+New to Knowbot? Check out our [Quick Start Guide](QUICKSTART.md) to get up and running in 5 minutes!
 
 ## Features
 
